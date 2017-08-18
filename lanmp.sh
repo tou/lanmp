@@ -128,7 +128,7 @@ install_mysqld() {
             ;;
     esac
 }
-
+##abcd
 ##function of install httpd.
 install_httpd() {
 echo "Install apache version 2.2."
